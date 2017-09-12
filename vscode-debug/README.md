@@ -8,3 +8,7 @@ typescript 调试
 ``` 
 npm install
 ```
+# 自动编译
+Ctrl + Shift + B
+# 调试
+F5 
